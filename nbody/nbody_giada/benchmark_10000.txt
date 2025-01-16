@@ -1,0 +1,250 @@
+Time: 5067 ms
+Time: 2804 ms
+Time: 7947 ms
+Time: 3998 ms
+Time: 2870 ms
+
+Time: 6839 ms
+Time: 3016 ms
+Time: 2842 ms
+Time: 3236 ms
+Time: 2819 ms
+
+Time: 2963 ms
+Time: 2951 ms
+Time: 2598 ms
+Time: 6358 ms
+Time: 2761 ms
+
+Time: 2844 ms
+Time: 2742 ms
+Time: 2750 ms
+Time: 3454 ms
+Time: 3111 ms
+
+Time: 5757 ms
+Time: 2966 ms
+Time: 3621 ms
+Time: 2613 ms
+Time: 5117 ms
+
+Time: 20709 ms
+Time: 17775 ms
+Time: 25603 ms
+Time: 7146 ms
+Time: 9602 ms
+
+Time: 3161 ms
+Time: 2858 ms
+Time: 4571 ms
+Time: 2783 ms
+Time: 3534 ms
+
+Time: 4515 ms
+Time: 3440 ms
+Time: 3725 ms
+Time: 2814 ms
+Time: 6225 ms
+Time: 2585 ms
+
+Time: 2725 ms
+Time: 4829 ms
+Time: 2715 ms
+Time: 3235 ms
+Time: 2705 ms
+
+Time: 2881 ms
+Time: 3019 ms
+Time: 2795 ms
+Time: 3489 ms
+Time: 2845 ms
+
+Time: 2952 ms
+Time: 3185 ms
+Time: 3256 ms
+Time: 2639 ms
+Time: 2751 ms
+
+Time: 3183 ms
+Time: 28983 ms
+Time: 9700 ms
+Time: 4910 ms
+Time: 9232 ms
+
+Time: 2962 ms
+Time: 4428 ms
+Time: 8149 ms
+Time: 2628 ms
+Time: 4179 ms
+
+Time: 2872 ms
+Time: 2785 ms
+Time: 2860 ms
+Time: 3011 ms
+Time: 3321 ms
+
+Time: 2768 ms
+Time: 3094 ms
+Time: 9090 ms
+Time: 3906 ms
+Time: 2974 ms
+
+Time: 3034 ms
+Time: 7238 ms
+Time: 2886 ms
+Time: 4148 ms
+Time: 3096 ms
+Time: 6847 ms
+Time: 2702 ms
+
+Time: 3111 ms
+Time: 3194 ms
+Time: 2583 ms
+Time: 3460 ms
+Time: 2822 ms
+
+Time: 3662 ms
+Time: 2615 ms
+Time: 3803 ms
+Time: 2634 ms
+Time: 2717 ms
+
+Time: 2950 ms
+Time: 3697 ms
+Time: 2804 ms
+Time: 3467 ms
+Time: 2731 ms
+
+Time: 4156 ms
+Time: 2711 ms
+Time: 3414 ms
+Time: 2786 ms
+Time: 2836 ms
+
+Time: 2900 ms
+Time: 5030 ms
+Time: 5819 ms
+Time: 4126 ms
+Time: 3951 ms
+
+Time: 6215 ms
+Time: 3697 ms
+Time: 2789 ms
+Time: 2763 ms
+Time: 5591 ms
+
+Time: 7716 ms
+Time: 5815 ms
+Time: 3178 ms
+Time: 3331 ms
+Time: 2605 ms
+Time: 5388 ms
+Time: 2612 ms
+
+Time: 3230 ms
+Time: 2843 ms
+Time: 2665 ms
+Time: 2673 ms
+Time: 2884 ms
+
+Time: 3462 ms
+Time: 3354 ms
+Time: 2660 ms
+Time: 2650 ms
+Time: 2693 ms
+
+Time: 3903 ms
+Time: 2687 ms
+Time: 3682 ms
+Time: 2625 ms
+Time: 2904 ms
+
+Time: 5838 ms
+Time: 2928 ms
+Time: 3551 ms
+Time: 2717 ms
+Time: 2809 ms
+Time: 2587 ms
+
+Time: 3246 ms
+Time: 2803 ms
+Time: 3491 ms
+Time: 3248 ms
+Time: 2679 ms
+
+Time: 8327 ms
+Time: 3454 ms
+Time: 2646 ms
+Time: 2685 ms
+Time: 2587 ms
+Time: 2852 ms
+
+Time: 6735 ms
+Time: 2878 ms
+Time: 2574 ms
+Time: 2710 ms
+Time: 3607 ms
+Time: 2669 ms
+
+Time: 2806 ms
+Time: 2704 ms
+Time: 4624 ms
+Time: 2599 ms
+Time: 3886 ms
+
+Time: 2790 ms
+Time: 2666 ms
+Time: 4411 ms
+Time: 2717 ms
+Time: 2668 ms
+
+Time: 2763 ms
+Time: 3297 ms
+Time: 2683 ms
+Time: 2881 ms
+Time: 2687 ms
+
+Time: 3085 ms
+Time: 2829 ms
+Time: 2815 ms
+Time: 2764 ms
+Time: 2979 ms
+
+Time: 2688 ms
+Time: 3300 ms
+Time: 2710 ms
+Time: 3339 ms
+Time: 2884 ms
+
+Time: 19956 ms
+Time: 2763 ms
+Time: 2619 ms
+Time: 2723 ms
+Time: 4453 ms
+
+Time: 2741 ms
+Time: 2782 ms
+Time: 2706 ms
+Time: 2709 ms
+Time: 2721 ms
+
+Time: 3763 ms
+Time: 2846 ms
+Time: 2618 ms
+Time: 2784 ms
+Time: 2622 ms
+
+Time: 3476 ms
+Time: 27168 ms
+Time: 2751 ms
+Time: 2883 ms
+Time: 2920 ms
+Time: 2686 ms
+Time: 2710 ms
+
+Time: 2715 ms
+Time: 3444 ms
+Time: 2716 ms
+Time: 2695 ms
+Time: 2695 ms
+
